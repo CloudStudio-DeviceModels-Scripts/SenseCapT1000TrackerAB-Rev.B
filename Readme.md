@@ -1,11 +1,11 @@
 
-# Parsing + Configuration Script – SenseCap T1000 Tracker AB - Rev. B
+# Parsing Script – SenseCap T1000 Tracker AB - Rev. B
 
-This **Parsing + Configuration** script is designed for the **SenseCap T1000 Tracker AB** model in **Gear Studio**, part of the [Cloud Studio](https://www.cloud.studio/) platform.
+This **Parsing** script is designed for the **SenseCap T1000 Tracker AB** model in **Gear Studio**, part of the [Cloud Studio](https://www.cloud.studio/) platform.
 
 ## 🧩 Script Type
 
-- **Type**: Parsing + Configuration
+- **Type**: Parsing
 
 ## ⚙️ Description
 
@@ -27,13 +27,13 @@ These functions enable extended integration capabilities in Cloud Studio, suppor
 
 ---
 
-# Script de Parsing + Configuration – SenseCap T1000 Tracker AB Rev. B
+# Script de Parsing – SenseCap T1000 Tracker AB Rev. B
 
-Este script de **Parsing + Configuration** está diseñado para el modelo **SenseCap T1000 Tracker AB** en **Gear Studio**, parte de la plataforma [Cloud Studio](https://www.cloud.studio/).
+Este script de **Parsing** está diseñado para el modelo **SenseCap T1000 Tracker AB** en **Gear Studio**, parte de la plataforma [Cloud Studio](https://www.cloud.studio/).
 
 ## 🧩 Tipo de Script
 
-- **Tipo**: Parsing + Configuration
+- **Tipo**: Parsing
 
 ## ⚙️ Descripción
 
